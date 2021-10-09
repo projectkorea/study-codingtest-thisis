@@ -1,4 +1,4 @@
-# CoreJavascript 스터디
+# 코딩테스트 스터디
 <p align='center'><img src="https://user-images.githubusercontent.com/76730867/136645764-9bdf4732-a2ca-477c-a694-ed223f3fc293.png" width="200px" height="200px"/></center></p>
 
 ### 목표
