@@ -1,5 +1,5 @@
 # CoreJavascript 스터디
-<p align='center'><img src="https://user-images.githubusercontent.com/76730867/136645764-9bdf4732-a2ca-477c-a694-ed223f3fc293.png" width="600" height="300"/></center></p>
+<p align='center'><img src="https://user-images.githubusercontent.com/76730867/136645764-9bdf4732-a2ca-477c-a694-ed223f3fc293.png"/></center></p>
 
 ### 목표
 - 문제 3회독 하기
