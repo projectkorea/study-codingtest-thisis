@@ -44,12 +44,12 @@ def solution(s):
         compressed = ""
         prev = s[0:step]
         count  = 1
-        for j in range(step, len(s), step):
-            if prev == s[j:j+step]:
+        for next in range(step, len(s), step):
+            if prev == s[next:next+step]:
                 count+=1
             else:
                 compressed += str(count) + prev if count >= 2 else prev
-                prev = s[j:j+step]
+                prev = s[next:next+step]
                 count = 1
         compressed += str(count) + prev if count >= 2 else prev
         answer = min(answer,len(compressed))
