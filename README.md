@@ -1,18 +1,19 @@
 # 코딩테스트 스터디
+
 <p align='center'><img src="https://user-images.githubusercontent.com/76730867/136645764-9bdf4732-a2ca-477c-a694-ed223f3fc293.png" width="200px" height="200px"/></center></p>
 
 ## 목표
+
 - 문제 3회독 하기
 
 ---
 
 # ✅ 1주차
+
 - 필수: Chapter3 그리디 예제문제, Chapter4 구현 예제문제
 - 추가문제: 그리디: Q1/Q2/Q3, 구현: Q7,Q8,Q9,Q10
 
-
-
----------------------------------------------------------
+---
 
 ## <이것이 코딩테스트다> 목차
 
