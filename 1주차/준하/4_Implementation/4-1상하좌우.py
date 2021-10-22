@@ -19,7 +19,7 @@ for plan in plans:
             if nx < 1 or ny < 1 or nx > n or ny > n:
                 continue
             else:
-                x,y=nx,n
+                x,y=nx,ny
                 # x = nx
                 # y = ny
                 # 코드 간략화
