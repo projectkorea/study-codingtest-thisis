@@ -17,7 +17,7 @@ while start <= end: #적절한 랜선의 길이를 찾는 알고리즘
         start = mid + 1
     else:
         end = mid - 1
-
+print(end)
 
 from sys import stdin
 K, N = map(int,stdin.readline().split())
