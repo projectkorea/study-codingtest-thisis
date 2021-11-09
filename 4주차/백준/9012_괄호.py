@@ -1,8 +1,7 @@
 # 한 결과물 당 프린트 할 때 분기점을 생각하자
 # if stack안의 if문의 else를 빼먹어서 print("NO")가 되지 않았음
-t = int(input())
 
-for _ in range(t):
+for _ in range(int(input())):
     s = list(input())
     stack = ['flag']
     for item in s:
